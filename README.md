@@ -1,8 +1,5 @@
 # FinServe AI Email Triage Engine
 
-**Submission for:** 10Clouds Financial Institutions Assessment Task (Step 2: Proof-of-concept Implementation)  
-**Candidate:** Salih Furkan Erik
-
 An enterprise-grade, proof-of-concept AI system that automates client support email processing for **FinServe**, a mid-size financial services company.
 
 ## Context & Problem Statement
